@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+fake-useragent
+pycryptodome
+Pillow
+urllib3
+python-dotenv
