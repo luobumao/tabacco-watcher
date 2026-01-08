@@ -1,0 +1,8 @@
+{
+  "enable_main_service": true,
+  "enable_hourly_restock_info": true,
+  "auto_pin_dashboard": true,
+  "dashboard_caption_template": "库存信息已刷新，点击图片查看库存。\n\n请关注群组获取最新补货信息。\n\n<b>华盛烟草唯一官网</b>:<a href=\"https://www.huashengyansi.cv/\">https://www.huashengyansi.cv/</a>",
+  "show_out_of_stock_list": true,
+  "dashboard_header_template": "华盛烟丝库存看板\n数据刷新时间:{update_time}\n有货 {in_stock_count} 个商品\n无货 {out_stock_count} 个商品"
+}
